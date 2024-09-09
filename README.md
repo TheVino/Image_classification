@@ -1,6 +1,7 @@
 
 
 
+
 # Image Classification *(PyTorch and CIFAR-10)* 🏞️
 Hi! This project implements a **Convolutional Neural Network (CNN)** using **PyTorch** to classify images from the [**CIFAR-10** dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The model predicts categories like airplanes, cars, birds, and more using image data, including functionality for training, evaluation, and prediction on new images.
  
@@ -103,6 +104,8 @@ Place the image inside the `./images/` folder and run the code. The prediction r
 <img src="https://i.imgur.com/8XfppPn.png" alt="drawing" width="400" align="center"/>
 <img src="https://i.imgur.com/TVLWoTN.png" alt="drawing" width="400" align="center"/>
 <img src="https://i.imgur.com/wZLajLc.png" alt="drawing" width="400" align="center"/>
+
+~~These colors and align was a pain to reach these results, but is way better this way.~~
 
 ### Future Features:
 - Integrate with CIFAR-100 option to choose from
